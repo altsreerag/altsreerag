@@ -68,8 +68,6 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/altsreerag/altsreerag/output/snake.svg" alt="Snake animation" />
 
 ###
